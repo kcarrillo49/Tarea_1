@@ -15,10 +15,10 @@ Se realizó un análisis preliminar de gabinete con información de algunas finc
 
 ### Estrategia de muestreo
 
-Se muestrearon tres y dos lotes de dos fincas en San Isidro y La Chaves respectivamente y se consideró que el área fuese representativa. Se tomaron entre 10-15 submuestras de 0-20 cm de profundidad del suelo con un patrón de recorrido definido (figura 1), mediante el uso de un barreno *tipo holandés* (Edelman). En el centro de cada lote se tomaron las coordenadas con la aplicación móvil __Map marker__, posteriormente las muestras de suelo se cuartearon, se etiquetaron y se enviaron al laboratorio de suelos del INTA para la determinación de nutrientes. 
+Se muestrearon tres y dos lotes de dos fincas en San Isidro y La Chaves respectivamente y se consideró que el área fuese representativa. Se tomaron entre 10-15 submuestras de 0-20 cm de profundidad del suelo con un patrón de recorrido definido (figura 1), mediante el uso de un barreno *tipo holandés* (Edelman). En el centro de cada lote se tomaron las coordenadas con la aplicación móvil __Map marker__, posteriormente las muestras de suelo se cuartearon, se etiquetaron y se enviaron al laboratorio de suelos del INTA para la determinación de nutrientes
 
 
-![](muestreo.jpg)
+<img src="muestreo.jpg" width="250" height="200">
 
 Figura 1. Patrón de recorrido para la toma de submuestras en campo. Horquetas, Sarapiquí.
 
@@ -29,7 +29,7 @@ Figura 1. Patrón de recorrido para la toma de submuestras en campo. Horquetas, 
 En el muestreo participaron tres productores y cuatro técnicos en la finca de Juan Pablo y dos productores y dos técnicos en la finca de Salvador. Los participantes interactuaron con todo el procedimiento, relacionado a definición del número de muestras por área, la división de los lotes según diferencias entre ellos, el sitio de muestreo, en este caso la banda de fertilización, la cantidad de submuestras así como el uso del barreno, el cuarteo y la identificación de la muestra final (figura 2).
 
 
-![](productor.jpg)
+<img src="productor.jpg" width="200" height="200">
 
 Figura 2. Productor en San Isidro haciendo una submuestra.
 
